@@ -16,20 +16,6 @@ package saniket.util;
 	public BrowserFactory(){
 	 
 	}
-	 
-//	public static WebDriver getDriver(){
-//	if(driver==null){
-//	ChromeOptions options = new ChromeOptions();
-//	options.addArguments("--disable-notifications");
-//	System.setProperty("webdriver.chrome.driver", "C:\\Users\\Saniket\\eclipse-workspace\\saniket\\lib\\chromedriver.exe");
-//	driver = new ChromeDriver(options);
-//	driver.manage().window().maximize();
-//	driver.manage().timeouts().implicitlyWait(45, TimeUnit.SECONDS);
-//	driver.manage().timeouts().pageLoadTimeout(45, TimeUnit.SECONDS);
-//	}
-//	return driver;
-//	}
-	 
 	public static WebDriver getDriver(String browserName){
 	if(driver==null){
 	if(browserName.equalsIgnoreCase("firefox")){

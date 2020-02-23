@@ -7,9 +7,11 @@ import saniket.basepage.FirstMainPage;
 import saniket.basepage.IssuingBank;
 import saniket.basepage.OrderSummary;
 
-@Test
+
 public class TC01 extends HelperClass {
+
 	
+  @Test
   public void purchaseflow() {
 	  
 	  driver.get("https://demo.midtrans.com/");
