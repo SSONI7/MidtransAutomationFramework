@@ -7,7 +7,7 @@ import saniket.basepage.FirstMainPage;
 import saniket.basepage.IssuingBank;
 import saniket.basepage.OrderSummary;
 
-public class TC02 extends HelperClass{
+public class TC02 extends CommonClass{
 	
     @Test
 	public void Failedpurchaseflow() {

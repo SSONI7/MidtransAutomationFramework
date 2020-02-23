@@ -8,7 +8,7 @@ import saniket.basepage.IssuingBank;
 import saniket.basepage.OrderSummary;
 
 
-public class TC01 extends HelperClass {
+public class TC01 extends CommonClass {
 
 	
   @Test
