@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/aopalliance-repackaged-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/c3p0-0.9.1-pre6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/c3p0-oracle-thin-extras-0.9.1-pre6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/cdi-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/commons-net-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/commons-net-3.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/commons-net-examples-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/dsn.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/el-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/extentreports-java-3.0.0-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/fluent-hc-4.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/gimap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/hk2-api-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/hk2-locator-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/hk2-utils-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/imap.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/javaee-api-5.0-3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/javassist-3.22.0-CR2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/javax.annotation-api-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/javax.inject-2.5.0-b42.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/javax.json.bind-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/javax.json-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/javax.json-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/javax.ws.rs-api-2.1-m09.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/jaxb-api-2.2.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/jboss-common-jdbc-wrapper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/jboss-common-jdbc-wrapper-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/jersey-client.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/jersey-common.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/jersey-container-servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/jersey-container-servlet-core.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/jersey-hk2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/jersey-media-jaxb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/jersey-media-json-binding.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/jersey-media-sse.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/jersey-server.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/json-20160810.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/json-lib-2.1-jdk15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/json-path-2.8.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/json-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/mailapi.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/mysql-connector-java-5.1.44-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/org.osgi.core-4.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/osgi-resource-locator-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/persistence-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/poi-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/poi-examples-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/poi-excelant-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/poi-ooxml-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/poi-ooxml-schemas-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/poi-scratchpad-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/pop3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/slf4j-api-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/smtp.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/validation-api-1.1.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/xls_Reader.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/yasson-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saniket/git/PracticeProject/PracticeFramework/repository/zip4j-1.3.2.jar"/>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
